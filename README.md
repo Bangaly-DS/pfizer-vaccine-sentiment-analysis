@@ -68,6 +68,8 @@ Word Clouds per Sentiment:
 ![Positive Word Cloud](wordcloud_positive.png)  
 ![Neutral Word Cloud](wordcloud_neutral.png)  
 ![Negative Word Cloud](wordcloud_negative.png)
+![Confusion Matrix](confusion_matrix.png)
+
 
 ---
 
